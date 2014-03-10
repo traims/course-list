@@ -34,3 +34,11 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Django
+# http://jasonkotenko.com/posts/using-git-django-github/
+settings.py
+*.json
+*~
+DEADJOE
+media/temp
